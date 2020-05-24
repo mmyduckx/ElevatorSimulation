@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(243,8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(398,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(415,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(515,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(637,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(641,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(658,6): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(814,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Owner\source\repos\ElevatorSimulation\ElevatorSimulation\Source.cpp(849,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ElevatorSimulation.vcxproj -> C:\Users\Owner\source\repos\ElevatorSimulation\Debug\ElevatorSimulation.exe

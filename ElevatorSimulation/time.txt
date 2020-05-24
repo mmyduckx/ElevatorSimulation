@@ -1,0 +1,276 @@
+Cart:3 goUp take time -> 4.00755s
+Cart:1 goUp take time -> 4.00903s
+Cart:3 Open and Closed ->10.0096s
+Cart:3 goUp take time -> 6.97465s
+Cart:1 Open and Closed ->10.0041s
+Cart:2 goUp take time -> 4.00301s
+Cart:3 Open and Closed ->10.0087s
+Cart:2 Open and Closed ->10.0043s
+Cart:1 goUp take time -> 14.7375s
+Cart:1 Open and Closed ->10.0068s
+Cart:2 goUp take time -> 22.9507s
+Cart:3 goUp take time -> 30.4318s
+Cart:2 Open and Closed ->10.0078s
+Cart:3 Open and Closed ->10.003s
+Cart:1 goUp take time -> 38.8326s
+Cart:1 Open and Closed ->10.0071s
+Cart:3 goUp take time -> 30.3391s
+Cart:3 Open and Closed ->10.0047s
+Cart:2 goUp take time -> 45.1404s
+Cart:2 Open and Closed ->10.0056s
+Cart:2 goUp_wayDown take time -> 102.57s
+Cart:3 goUp take time -> 13.6373s
+Cart:1 goUp take time -> 29.9888s
+Cart:3 Open and Closed ->10.0024s
+Cart:1 Open and Closed ->10.0051s
+Cart:3 goUp take time -> 4.00059s
+Cart:1 goUp take time -> 4.00624s
+Cart:3 Open and Closed ->10.0027s
+Cart:1 Open and Closed ->10.0496s
+Cart:1 goUp_wayDown take time -> 142.524s
+Cart:3 goUp take time -> 7.30831s
+Cart:3 Open and Closed ->10.0045s
+Cart:3 goUp_wayDown take time -> 168.006s
+Cart:2 goDown take time -> 67.7503s
+Cart:2 Open and Closed ->10.0099s
+Cart:2 goDown_wayDown take time -> 77.9287s
+Cart:1 goDown take time -> 74.1469s
+Cart:2 goUp take time -> 25.0127s
+Cart:1 Open and Closed ->10.0048s
+Cart:1 goDown_wayDown take time -> 84.3345s
+Cart:2 Open and Closed ->10.0039s
+Cart:3 goDown take time -> 79.4603s
+Cart:3 Open and Closed ->10.0009s
+Cart:3 goDown_wayDown take time -> 89.6165s
+Cart:1 goUp take time -> 4.00267s
+Cart:1 Open and Closed ->10.0081s
+Cart:3 goUp take time -> 4.0067s
+Cart:3 Open and Closed ->10.0095s
+Cart:2 goUp take time -> 65.4269s
+Cart:2 Open and Closed ->10.0038s
+Cart:2 goUp take time -> 4.00426s
+Cart:2 Open and Closed ->10.0023s
+Cart:2 goUp_wayDown take time -> 124.917s
+Cart:1 goUp take time -> 79.096s
+Cart:1 Open and Closed ->10.0093s
+Cart:3 goUp take time -> 86.0942s
+Cart:1 goUp take time -> 8.32624s
+Cart:3 Open and Closed ->10.0089s
+Cart:1 Open and Closed ->10.0073s
+Cart:3 goUp take time -> 10.2678s
+Cart:1 goUp take time -> 12.3404s
+Cart:3 Open and Closed ->10.0028s
+Cart:1 Open and Closed ->10.0051s
+Cart:3 goUp take time -> 4.00273s
+Cart:1 goUp take time -> 4.0041s
+Cart:2 goDown take time -> 76.271s
+Cart:3 Open and Closed ->10.0064s
+Cart:3 goUp_wayDown take time -> 145.213s
+Cart:1 Open and Closed ->10.0063s
+Cart:1 goUp_wayDown take time -> 158.749s
+Cart:2 Open and Closed ->10.0077s
+Cart:2 goDown_wayDown take time -> 86.4584s
+Cart:3 goUp take time -> 4.00823s
+Cart:3 Open and Closed ->10.0042s
+Cart:1 goUp take time -> 4.00784s
+Cart:1 Open and Closed ->10.0083s
+Cart:2 goUp take time -> 4.00701s
+Cart:3 goUp take time -> 58.89s
+Cart:2 Open and Closed ->10.0038s
+Cart:3 Open and Closed ->10.0102s
+Cart:3 goUp take time -> 12.5755s
+Cart:2 goUp take time -> 30.4658s
+Cart:3 Open and Closed ->10.0093s
+Cart:3 goUp_wayDown take time -> 106.062s
+Cart:1 goUp take time -> 74.953s
+Cart:2 Open and Closed ->10.0098s
+Cart:1 Open and Closed ->10.0043s
+Cart:2 goUp take time -> 9.79072s
+Cart:1 goUp take time -> 7.36165s
+Cart:2 Open and Closed ->10.0052s
+Cart:1 Open and Closed ->10.0074s
+Cart:1 goUp_wayDown take time -> 116.942s
+Cart:2 goUp take time -> 35.8875s
+Cart:3 goDown take time -> 67.057s
+Cart:2 Open and Closed ->10.0042s
+Cart:3 Open and Closed ->10.0047s
+Cart:3 goDown take time -> 4.0015s
+Cart:2 goUp take time -> 7.08034s
+Cart:3 Open and Closed ->10.0096s
+Cart:3 goDown_wayDown take time -> 91.375s
+Cart:2 Open and Closed ->10.0096s
+Cart:2 goUp take time -> 4.00169s
+Cart:2 Open and Closed ->10.0031s
+Cart:2 goUp_wayDown take time -> 152.315s
+Cart:1 goDown take time -> 77.2602s
+Cart:1 Open and Closed ->10.0062s
+Cart:1 goDown_wayDown take time -> 87.4337s
+Cart:3 goUp take time -> 20.6392s
+Cart:3 Open and Closed ->10.0096s
+Cart:3 goUp_wayDown take time -> 30.831s
+Cart:2 goDown take time -> 74.6108s
+Cart:1 goUp take time -> 53.5953s
+Cart:2 Open and Closed ->10.0058s
+Cart:1 Open and Closed ->10.0012s
+Cart:2 goDown take time -> 4.00932s
+Cart:1 goUp take time -> 7.22641s
+Cart:2 Open and Closed ->10.0062s
+Cart:2 goDown_wayDown take time -> 98.9516s
+Cart:1 Open and Closed ->10.0093s
+Cart:2 goDown take time -> 4.00532s
+Cart:1 goUp take time -> 14.8262s
+Cart:3 goDown take time -> 22.4233s
+Cart:2 Open and Closed ->10.007s
+Cart:2 goDown_wayDown take time -> 14.1557s
+Cart:1 Open and Closed ->10.0003s
+Cart:3 Open and Closed ->10.0086s
+Cart:3 goDown_wayDown take time -> 32.6036s
+Cart:1 goUp take time -> 4.00197s
+Cart:1 Open and Closed ->10.0093s
+Cart:2 goUp take time -> 4.00133s
+Cart:2 Open and Closed ->10.0086s
+Cart:2 goUp take time -> 19.4918s
+Cart:3 goUp take time -> 4.00486s
+Cart:2 Open and Closed ->10.0086s
+Cart:3 Open and Closed ->10.0092s
+Cart:1 goUp take time -> 70.4561s
+Cart:1 Open and Closed ->10.0089s
+Cart:1 goUp_wayDown take time -> 94.7482s
+Cart:3 goUp take time -> 45.2174s
+Cart:3 Open and Closed ->10.0093s
+Cart:2 goUp take time -> 58.4282s
+Cart:2 Open and Closed ->10.0087s
+Cart:2 goUp take time -> 4.00439s
+Cart:3 goUp take time -> 20.3633s
+Cart:2 Open and Closed ->10.005s
+Cart:2 goUp_wayDown take time -> 126.693s
+Cart:3 Open and Closed ->10.0068s
+Cart:1 goDown take time -> 69.2107s
+Cart:3 goUp take time -> 10.0829s
+Cart:1 Open and Closed ->10.0091s
+Cart:1 goDown_wayDown take time -> 79.4368s
+Cart:3 Open and Closed ->10.0101s
+Cart:3 goUp take time -> 7.41808s
+Cart:1 goDown take time -> 4.00571s
+Cart:3 Open and Closed ->10.0075s
+Cart:3 goUp_wayDown take time -> 137.96s
+Cart:1 Open and Closed ->10.0043s
+Cart:1 goDown_wayDown take time -> 14.1858s
+Cart:2 goDown take time -> 76.6852s
+Cart:1 goUp take time -> 44.9554s
+Cart:2 Open and Closed ->10.0045s
+Cart:2 goDown take time -> 4.00375s
+Cart:1 Open and Closed ->10.0079s
+Cart:2 Open and Closed ->10.0049s
+Cart:2 goDown_wayDown take time -> 101.072s
+Cart:1 goUp take time -> 12.3008s
+Cart:3 goDown take time -> 76.9747s
+Cart:1 Open and Closed ->10.0075s
+Cart:1 goUp take time -> 4.00077s
+Cart:3 Open and Closed ->10.0048s
+Cart:3 goDown take time -> 4.00763s
+Cart:1 Open and Closed ->10.0054s
+Cart:2 goUp take time -> 28.5724s
+Cart:1 goUp take time -> 7.15694s
+Cart:3 Open and Closed ->10.0019s
+Cart:3 goDown_wayDown take time -> 101.448s
+Cart:2 Open and Closed ->10.0071s
+Cart:1 Open and Closed ->10.0075s
+Cart:3 goDown take time -> 4.00941s
+Cart:2 goUp take time -> 12.7743s
+Cart:1 goUp take time -> 13.5868s
+Cart:3 Open and Closed ->10.0096s
+Cart:3 goDown_wayDown take time -> 14.188s
+Cart:2 Open and Closed ->10.0012s
+Cart:1 Open and Closed ->10.0025s
+Cart:2 goUp take time -> 9.61322s
+Cart:1 goUp take time -> 9.77842s
+Cart:2 Open and Closed ->10.0076s
+Cart:1 goUp take time -> 4.00264s
+Cart:1 Open and Closed ->10.0043s
+Cart:1 goUp take time -> 17.1649s
+Cart:1 Open and Closed ->10.0062s
+Cart:2 goUp take time -> 4.00935s
+Cart:2 Open and Closed ->10.005s
+Cart:1 goUp take time -> 14.5543s
+Cart:1 Open and Closed ->10.0006s
+Cart:1 goUp take time -> 4.00828s
+Cart:1 Open and Closed ->10.0014s
+Cart:2 goUp take time -> 50.0344s
+Cart:2 Open and Closed ->10.0083s
+Cart:2 goUp take time -> 7.47918s
+Cart:1 goUp take time -> 49.7279s
+Cart:2 Open and Closed ->10.0016s
+Cart:1 Open and Closed ->10.0086s
+Cart:1 goUp_wayDown take time -> 140.284s
+Cart:2 goUp take time -> 12.3315s
+Cart:2 Open and Closed ->10.0086s
+Cart:2 goUp take time -> 10.1394s
+Cart:2 Open and Closed ->10.0015s
+Cart:2 goUp_wayDown take time -> 134.886s
+Cart:3 goUp take time -> 4.00412s
+Cart:3 Open and Closed ->10.0039s
+Cart:3 goUp_wayDown take time -> 14.1777s
+Cart:3 goDown_wayDown take time -> 0.00035109s
+Cart:3 goUp take time -> 4.01011s
+Cart:3 Open and Closed ->10.0011s
+Cart:1 goDown take time -> 76.7208s
+Cart:1 Open and Closed ->10.0095s
+Cart:1 goDown take time -> 4.00873s
+Cart:3 goUp take time -> 31.0743s
+Cart:1 Open and Closed ->10.0035s
+Cart:1 goDown_wayDown take time -> 101.094s
+Cart:2 goDown take time -> 72.1577s
+Cart:3 Open and Closed ->10.0038s
+Cart:2 Open and Closed ->10.0049s
+Cart:2 goDown_wayDown take time -> 82.3248s
+Cart:3 goUp take time -> 9.71794s
+Cart:3 Open and Closed ->10.0004s
+Cart:3 goUp_wayDown take time -> 75.277s
+Cart:2 goDown take time -> 4.00223s
+Cart:2 Open and Closed ->10.004s
+Cart:2 goDown_wayDown take time -> 14.1603s
+Cart:1 goUp take time -> 50.4472s
+Cart:3 goDown take time -> 37.7248s
+Cart:1 Open and Closed ->10.0089s
+Cart:3 Open and Closed ->10.0095s
+Cart:3 goDown_wayDown take time -> 47.8694s
+Cart:3 goUp take time -> 4.00553s
+Cart:1 goUp take time -> 25.2782s
+Cart:3 Open and Closed ->10.0075s
+Cart:1 Open and Closed ->10.0055s
+Cart:1 goUp take time -> 4.00112s
+Cart:2 goUp take time -> 75.0223s
+Cart:1 Open and Closed ->10.0087s
+Cart:1 goUp_wayDown take time -> 110.182s
+Cart:2 Open and Closed ->10.0048s
+Cart:2 goUp_wayDown take time -> 85.1823s
+Cart:3 goUp take time -> 62.1941s
+Cart:3 Open and Closed ->10.0023s
+Cart:3 goUp take time -> 9.67558s
+Cart:3 Open and Closed ->10.0085s
+Cart:3 goUp take time -> 7.50841s
+Cart:1 goDown take time -> 75.2044s
+Cart:3 Open and Closed ->10.0023s
+Cart:2 goDown take time -> 76.3158s
+Cart:3 goUp take time -> 4.00045s
+Cart:1 Open and Closed ->10.0036s
+Cart:1 goDown_wayDown take time -> 85.367s
+Cart:2 Open and Closed ->10.0077s
+Cart:2 goDown_wayDown take time -> 86.4586s
+Cart:3 Open and Closed ->10.0062s
+Cart:3 goUp_wayDown take time -> 138.174s
+Cart:1 goUp take time -> 4.00072s
+Cart:1 Open and Closed ->10.0012s
+Cart:2 goUp take time -> 29.5726s
+Cart:2 Open and Closed ->10.0082s
+Cart:2 goUp_wayDown take time -> 39.6843s
+Cart:1 goUp take time -> 24.7073s
+Cart:1 Open and Closed ->10.0022s
+Cart:1 goUp_wayDown take time -> 48.9837s
+Cart:1 goDown take time -> 21.972s
+Cart:3 goDown take time -> 73.3049s
+Cart:1 Open and Closed ->10.0034s
+Cart:1 goDown_wayDown take time -> 32.08s
+Cart:3 Open and Closed ->10.0042s
+Cart:3 goDown_wayDown take time -> 83.4191s

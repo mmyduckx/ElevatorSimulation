@@ -1,0 +1,267 @@
+Cart:3 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 3 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:2 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):14.253s
+Cart:1 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 1 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:5 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 1) WT(wait time):9.27531s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 2 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:13 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 2 Direction: 1) INT(running interval time):17.1302s
+Cart:2 -> Set task (Floor:8 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 1) WT(wait time):9.31708s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> Set task (Floor:19 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 5 Direction: 1) INT(running interval time):24.8816s
+Cart:2 -> Set task (Floor:24 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 8 Direction: 1) INT(running interval time):33.0885s
+Cart:3 -> Set task (Floor:24 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 13 Direction: 1) INT(running interval time):40.571s
+Cart:1 -> Set task (Floor:28 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 19 Direction: 1) INT(running interval time):48.9894s
+Cart:3 -> Set task (Floor:28 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 24 Direction: 1) INT(running interval time):40.511s
+Cart:2 -> arrived (Floor: 24 Direction: 1) INT(running interval time):55.3276s
+Cart:3 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 28 Direction: 1) INT(running interval time):23.8157s
+Cart:1 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 28 Direction: 1) INT(running interval time):40.2107s
+Cart:3 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 29 Direction: 1) INT(running interval time):14.1765s
+Cart:1 -> arrived (Floor: 29 Direction: 1) INT(running interval time):14.1513s
+Cart:3 -> arrived (Floor: 30 Direction: 1) INT(running interval time):17.5576s
+Cart:2 -> Set task (Floor:10 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 0) WT(wait time):200.852s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 2 Scanner -> result: Up then Down
+Cart:1 -> arrived (Floor: 0 Direction: 0) WT(wait time):237.113s
+Cart:2 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 10 Direction: 1) INT(running interval time):45.3164s
+Cart:3 -> arrived (Floor: 0 Direction: 0) WT(wait time):257.731s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:23 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 1) WT(wait time):5.92051s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 3 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:26 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):6.40869s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 29 Direction: 1) INT(running interval time):75.5459s
+Cart:2 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.2001s
+Cart:1 -> Set task (Floor:25 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 23 Direction: 1) INT(running interval time):89.3071s
+Cart:3 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 26 Direction: 1) INT(running interval time):96.305s
+Cart:1 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 25 Direction: 1) INT(running interval time):18.5083s
+Cart:3 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 29 Direction: 1) INT(running interval time):20.4793s
+Cart:1 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 29 Direction: 1) INT(running interval time):22.5116s
+Cart:3 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.2099s
+Cart:1 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.2025s
+Cart:2 -> Set task (Floor:27 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 0) WT(wait time):422.437s
+Cart:1 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Down then Up
+Cart 2 Scanner -> result: Up then Down
+Cart:3 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 3 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:22 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):14.2562s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:28 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 1) WT(wait time):4.3023s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 2 Scanner -> result: Up then Down
+Cart:2 -> Set task (Floor:11 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 1) WT(wait time):9.55232s
+Cart:3 -> Set task (Floor:26 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 22 Direction: 1) INT(running interval time):69.0783s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 26 Direction: 1) INT(running interval time):22.7709s
+Cart:2 -> Set task (Floor:14 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 11 Direction: 1) INT(running interval time):40.648s
+Cart:1 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 28 Direction: 1) INT(running interval time):85.1378s
+Cart:2 -> Set task (Floor:27 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 14 Direction: 1) INT(running interval time):19.9801s
+Cart:1 -> arrived (Floor: 30 Direction: 1) INT(running interval time):17.5972s
+Cart:2 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 27 Direction: 1) INT(running interval time):46.0757s
+Cart:3 -> Set task (Floor:8 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 0) WT(wait time):183.468s
+Cart:3 -> arrived (Floor: 0 Direction: 0) WT(wait time):197.63s
+Cart:2 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 29 Direction: 1) INT(running interval time):17.2535s
+Cart:2 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.1687s
+Cart 3 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:21 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 0) WT(wait time):224.754s
+Cart:3 -> arrived (Floor: 8 Direction: 1) INT(running interval time):55.238s
+Cart 1 Scanner -> result: Up then Down
+Cart:2 -> Set task (Floor:15 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 0) WT(wait time):297.825s
+Cart:1 -> Set task (Floor:23 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 21 Direction: 1) INT(running interval time):73.9294s
+Cart:2 -> arrived (Floor: 0 Direction: 0) WT(wait time):312.007s
+Cart:3 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:1 -> Set task (Floor:28 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 23 Direction: 1) INT(running interval time):17.3967s
+Cart 3 Scanner -> result: Down then Up
+Cart:2 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 2 Scanner -> result: Down then Up
+Cart:2 -> arrived (Floor: 0 Direction: 0) WT(wait time):336.291s
+Cart:1 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 28 Direction: 1) INT(running interval time):25.0229s
+Cart:3 -> arrived (Floor: 0 Direction: 0) WT(wait time):341.806s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:27 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 1) WT(wait time):14.2465s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:2 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 2 Scanner -> result: Up then Down
+Cart:2 -> Set task (Floor:7 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 1) WT(wait time):4.26373s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 3 Scanner -> result: Up then Down
+Cart:2 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 7 Direction: 1) INT(running interval time):29.6518s
+Cart:3 -> Set task (Floor:17 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):4.30174s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 27 Direction: 1) INT(running interval time):80.578s
+Cart:3 -> Set task (Floor:24 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 17 Direction: 1) INT(running interval time):55.371s
+Cart:2 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 29 Direction: 1) INT(running interval time):68.5877s
+Cart:2 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.2597s
+Cart:3 -> Set task (Floor:27 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 24 Direction: 1) INT(running interval time):30.5679s
+Cart:1 -> Set task (Floor:17 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 0) WT(wait time):174.317s
+Cart:3 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 27 Direction: 1) INT(running interval time):20.2551s
+Cart:1 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Down then Up
+Cart:3 -> arrived (Floor: 29 Direction: 1) INT(running interval time):17.5974s
+Cart:1 -> arrived (Floor: 0 Direction: 0) WT(wait time):198.668s
+Cart:2 -> Set task (Floor:11 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 0) WT(wait time):243.979s
+Cart:1 -> Set task (Floor:21 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 17 Direction: 1) INT(running interval time):79.5454s
+Cart:2 -> arrived (Floor: 0 Direction: 0) WT(wait time):258.159s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:1 -> Set task (Floor:22 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 21 Direction: 1) INT(running interval time):22.5461s
+Cart 2 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:24 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 0) WT(wait time):285.802s
+Cart:1 -> Set task (Floor:23 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 22 Direction: 1) INT(running interval time):14.2243s
+Cart:3 -> arrived (Floor: 0 Direction: 0) WT(wait time):300.062s
+Cart:2 -> Set task (Floor:15 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 11 Direction: 1) INT(running interval time):63.1794s
+Cart:1 -> Set task (Floor:27 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 23 Direction: 1) INT(running interval time):17.3464s
+Cart:3 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 3 Scanner -> result: Down then Up
+Cart:3 -> arrived (Floor: 0 Direction: 0) WT(wait time):324.375s
+Cart:2 -> Set task (Floor:18 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 15 Direction: 1) INT(running interval time):23.0839s
+Cart:1 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 27 Direction: 1) INT(running interval time):23.7957s
+Cart:2 -> Set task (Floor:19 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 18 Direction: 1) INT(running interval time):20.1897s
+Cart:1 -> arrived (Floor: 30 Direction: 1) INT(running interval time):19.9745s
+Cart:1 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart 1 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:6 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 1) WT(wait time):14.226s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> Set task (Floor:11 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 6 Direction: 1) INT(running interval time):27.3118s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 2 Scanner -> result: Up then Down
+Cart:2 -> Set task (Floor:19 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 1) WT(wait time):9.37841s
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> Set task (Floor:12 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 11 Direction: 1) INT(running interval time):24.7077s
+Cart:1 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 12 Direction: 1) INT(running interval time):14.1931s
+Cart:2 -> Set task (Floor:21 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 19 Direction: 1) INT(running interval time):60.1742s
+Cart:2 -> Set task (Floor:25 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 21 Direction: 1) INT(running interval time):17.6161s
+Cart:1 -> arrived (Floor: 30 Direction: 1) INT(running interval time):59.9021s
+Cart:2 -> Set task (Floor:28 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 25 Direction: 1) INT(running interval time):22.5681s
+Cart:2 -> arrived (Floor: 28 Direction: 1) INT(running interval time):20.367s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 3 Scanner -> result: Up then Down
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):9.96972s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 3 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:11 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):24.2193s
+Cart:1 -> Set task (Floor:20 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 0) WT(wait time):227.338s
+Cart:1 -> arrived (Floor: 0 Direction: 0) WT(wait time):241.529s
+Cart:3 -> Set task (Floor:14 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 11 Direction: 1) INT(running interval time):41.2394s
+Cart:2 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 0) WT(wait time):257.663s
+Cart 1 Scanner -> result: Up then Down
+Cart:3 -> arrived (Floor: 14 Direction: 1) INT(running interval time):19.8922s
+Cart:2 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 2 Scanner -> result: Down then Up
+Cart:2 -> arrived (Floor: 0 Direction: 0) WT(wait time):281.954s
+Cart:1 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 20 Direction: 1) INT(running interval time):84.9812s
+Cart:3 -> arrived (Floor: 0 Direction: 0) WT(wait time):318.81s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 3 Scanner -> result: Up then Down
+Cart:3 -> Set task (Floor:24 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 1 Direction: 1) WT(wait time):12.0725s
+Cart:3 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 29 Direction: 1) INT(running interval time):35.4525s
+Cart:1 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.1313s
+Cart:2 -> arrived (Floor: 30 Direction: 1) INT(running interval time):109.527s
+Cart:1 -> Pick task (Floor:0 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Down then Up
+Cart:2 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 2 Scanner -> result: Down then Up
+Cart:3 -> Set task (Floor:27 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 24 Direction: 1) INT(running interval time):72.3467s
+Cart:3 -> Set task (Floor:29 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 27 Direction: 1) INT(running interval time):19.8654s
+Cart:3 -> Set task (Floor:30 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:3 -> arrived (Floor: 29 Direction: 1) INT(running interval time):17.6482s
+Cart:1 -> arrived (Floor: 0 Direction: 0) WT(wait time):457.419s
+Cart:2 -> Set task (Floor:12 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:2 -> arrived (Floor: 1 Direction: 0) WT(wait time):463.829s
+Cart:3 -> arrived (Floor: 30 Direction: 1) INT(running interval time):14.1266s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:0 algorithm: Proximity)
+Cart 1 Scanner -> result: Up then Down
+Cart:1 -> Set task (Floor:9 Direction:1 runStatus:1 algorithm: Waydown)
+Cart:1 -> arrived (Floor: 1 Direction: 1) WT(wait time):5.46967s
+Cart:1 -> Pick task (Floor:1 Direction:1 runStatus:1 algorithm: Waydown)

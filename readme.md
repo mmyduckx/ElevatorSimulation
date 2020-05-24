@@ -27,4 +27,4 @@ You should delete all of them befor you restart the program.
 ---
 For more details, you could review ***ElevatorSimulation_report.pdf*** file
 
-<img src="https://github.com/mmyduckx/ElevatorSimulation/blob/master/readme.md" width=600 height=800 />
+<img src="https://github.com/mmyduckx/ElevatorSimulation/blob/master/demo.gif" width=600 height=800 />
